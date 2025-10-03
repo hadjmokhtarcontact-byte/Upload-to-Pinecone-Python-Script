@@ -8,10 +8,10 @@ import time
 # ----------------------
 # Configuration Section
 # ----------------------
-openai_api_key = "YOUR_OPENAI_API_KEY"  # Replace with your OpenAI API Key
-pinecone_api_key = "YOUR_PINECONE_API_KEY"  # Replace with your Pinecone API Key
-index_name = "YOUR_INDEX_NAME"  # Replace with your Pinecone Index Name
-pdf_folder = r"YOUR_LOCAL_PDF_DIRECTORY_PATH"  # Example: r"C:\Path\To\Your\PDFs"
+openai_api_key = "AIzaSyC25CwifYbkmaXEdHUS1LmIrxpwzP_UZvA"  # Replace with your OpenAI API Key
+pinecone_api_key = "pcsk_6B6Cr5_NJzWDiyy79F9sS3GL6YkALTC1Krmpfu8DyZfGRAXCbxpGbUjA7on8ihFCn4oMHq"  # Replace with your Pinecone API Key
+index_name = "gpp"  # Replace with your Pinecone Index Name
+pdf_folder = r"C:\Users\pc\Desktop\2025"  # Example: r"C:\Path\To\Your\PDFs"
 
 # ----------------------
 # Resume Support - Set the Batch Number to Resume From
